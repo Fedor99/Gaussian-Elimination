@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gauss-Jordan_Elimination", "Gauss-Jordan_Elimination\Gauss-Jordan_Elimination.vcxproj", "{76DD6E86-C2C6-47C2-A87F-45B0BA9CDE6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76DD6E86-C2C6-47C2-A87F-45B0BA9CDE6A}.Debug|x64.ActiveCfg = Debug|x64
+		{76DD6E86-C2C6-47C2-A87F-45B0BA9CDE6A}.Debug|x64.Build.0 = Debug|x64
+		{76DD6E86-C2C6-47C2-A87F-45B0BA9CDE6A}.Debug|x86.ActiveCfg = Debug|Win32
+		{76DD6E86-C2C6-47C2-A87F-45B0BA9CDE6A}.Debug|x86.Build.0 = Debug|Win32
+		{76DD6E86-C2C6-47C2-A87F-45B0BA9CDE6A}.Release|x64.ActiveCfg = Release|x64
+		{76DD6E86-C2C6-47C2-A87F-45B0BA9CDE6A}.Release|x64.Build.0 = Release|x64
+		{76DD6E86-C2C6-47C2-A87F-45B0BA9CDE6A}.Release|x86.ActiveCfg = Release|Win32
+		{76DD6E86-C2C6-47C2-A87F-45B0BA9CDE6A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDDC1EAB-7531-4EFA-B57E-1F5A3DC9E6E3}
+	EndGlobalSection
+EndGlobal
